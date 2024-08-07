@@ -1,0 +1,8 @@
+.container{
+    .navbar{
+        background-color: $primary;
+    }
+    &__logo{
+        font-family: $font-logo;
+    }
+}
